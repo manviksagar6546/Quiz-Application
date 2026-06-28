@@ -4,10 +4,7 @@ class Main{
 
         QuestionService service = new QuestionService();
         service.playQuiz();
-<<<<<<< HEAD
         service.Yourscore();
         service.rightAnswer();
-=======
->>>>>>> origin/main
     }
 }
