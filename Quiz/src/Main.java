@@ -3,6 +3,6 @@ class Main{
 //        System.out.println("Lets create new Journy of SUCCESS");
 
         QuestionService service = new QuestionService();
-        service.displayAllQuestions();
+        service.playQuiz();
     }
 }
