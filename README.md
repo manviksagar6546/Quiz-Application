@@ -1,6 +1,4 @@
-<video width="800" controls>
-  <source src="Quiz application.mp4" type="video/mp4">
-</video>
+<video src="Quizapplication.mp4" controls width="800"></video>
 
 # 🧠 Quiz Application (Core Java)
 
