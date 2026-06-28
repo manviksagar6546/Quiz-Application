@@ -28,21 +28,11 @@ public class QuestionService {
             Scanner sc = new Scanner(System.in);
             selections[i] = sc.nextLine();
             i++;
-<<<<<<< HEAD
             System.out.println(" ");
         }
         for(String s : selections){
             System.out.println(s);
-=======
-
-            System.out.println(" ");
->>>>>>> origin/main
         }
-
-        for(String s : selections){
-            System.out.println(s);
-        }
-
     }
 
     public void Yourscore(){
