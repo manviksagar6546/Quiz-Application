@@ -1,4 +1,7 @@
-<video src="[Quizapplication.mp4](https://github.com/user-attachments/assets/5c9637d7-0b37-4fad-8d48-67bcea00be7f)" controls width="800"></video>
+<video controls width="800">
+  <source src="https://github.com/user-attachments/assets/5c9637d7-0b37-4fad-8d48-67bcea00be7f" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 # 🧠 Quiz Application (Core Java)
 
